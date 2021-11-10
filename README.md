@@ -10,7 +10,8 @@ Rentranscrivez sous forme de code les opérations suivantes:
     
     3. Stockez dans une variable nommée "soustraction" le résultat de la soustraction de la variable "result" et de 1
     
-    4. Affichez dans une alert() le contenu de la variable result multipliée par le contenu de la variable addition ( mais n'affectez pas le résultat ... )
+    4. Affichez dans une alert() le contenu de la variable result multipliée par le contenu de la variable addition 
+    ( mais n'affectez pas le résultat ... )
     
     5. Affichez dans une alert() le contenu de la variable result exposant le contenu de la variable soustraction
     
